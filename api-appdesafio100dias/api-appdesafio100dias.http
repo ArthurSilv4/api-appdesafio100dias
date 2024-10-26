@@ -1,0 +1,6 @@
+@api_appdesafio100dias_HostAddress = http://localhost:5033
+
+GET {{api_appdesafio100dias_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
